@@ -29,7 +29,7 @@ async function getTVL({network}: {network: number}): Promise<TTVL> {
 
 	const multicallInstance = client.multicall;
 
-	console.log('hello');
+	console.log('LEEEEEERROOOOOOYYYYY JENKKKKIIINNNNSSSSS');
 	console.log(`Network: ${network}`);
 
 	console.log(client);
