@@ -3112,10 +3112,10 @@
     "@walletconnect/window-getters" "^1.0.1"
     tslib "1.14.1"
 
-"@yearn-finance/web-lib@^0.20.116":
-  version "0.20.116"
-  resolved "https://registry.yarnpkg.com/@yearn-finance/web-lib/-/web-lib-0.20.116.tgz#460b0135cf579ab1ba4cf2ea4637e9328bf4dc2d"
-  integrity sha512-zO33EyP8oYnZsDjDUO0PLKpvnd8ySefn2PVa8x/c7byoltKQQ0IfkeFF6r5MWnrAbSZGnP7UOv1YvDI19uwKsQ==
+"@yearn-finance/web-lib@^0.20.140":
+  version "0.20.140"
+  resolved "https://registry.yarnpkg.com/@yearn-finance/web-lib/-/web-lib-0.20.140.tgz#01dfd7bf699a0f6c0205e68d5965c27c02b72252"
+  integrity sha512-p1+JjKu/EA+oXc8D086rX7tkh1MMuILH0t3VUYIqHzCTb8Oh/n94q9b1hjU/6YIBrBZc132B0XQTt/Z1Pknbdg==
   dependencies:
     "@babel/preset-typescript" "^7.22.5"
     "@headlessui/react" "^1.7.16"
